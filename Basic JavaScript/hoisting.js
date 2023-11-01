@@ -1,0 +1,1 @@
+// Hoisting : Variable and functions are hoisted which means there declaration is moved on the top of code.
